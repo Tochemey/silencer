@@ -1,8 +1,5 @@
 # Silencer: Scala compiler plugin for warning suppression
 
-[![Build Status](https://travis-ci.org/ghik/silencer.svg?branch=master)](https://travis-ci.org/ghik/silencer)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ghik/silencer-plugin_2.13.2/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.ghik/silencer-plugin_2.13.2)
-
 ## Compatibility
 
 Silencer is available for Scala 2.11, 2.12, and 2.13.
